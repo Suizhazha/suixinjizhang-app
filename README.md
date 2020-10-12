@@ -20,6 +20,6 @@ vue2 + vue-router + vuex + typescript + echarts.js + svg
 ## 效果演示
 [查看demo请戳这里](https://suizhazha.github.io/suixinjizhang-app) (建议使用chrome手机模式预览)
 
-#### 移动端可扫描下方二维码访问
-![扫描二维码访问应用]()
+
+
 
